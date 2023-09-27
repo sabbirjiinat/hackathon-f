@@ -1,0 +1,274 @@
+[
+  {
+    "_id": 1,
+    "title": "Code Warriors Challenge",
+    "description": "Unleash your coding prowess!",
+    "banner": "https://access2sea.eu/wp-content/uploads/2020/06/OH5_Site_Banner_gen.png",
+
+    "publisher": {
+      "name": "Code Warriors Inc.",
+      "logo": "https://he-s3.s3.amazonaws.com/media/cache/80/86/8086157462851a841a1516f335f0d134.png"
+    },
+    "start_time": "2024-01-20T08:00:00Z",
+    "end_time": "2024-01-21T08:00:00Z",
+    "first_prize": 2000,
+    "second_prize": 1000,
+    "third_prize": 500,
+    "category": "Upcoming Hackathon"
+  },
+
+  {
+    "_id": 2,
+    "title": "Innovate-a-thon",
+    "description": "Innovate and win exciting prizes!",
+    "banner": "https://access2sea.eu/wp-content/uploads/2020/06/OH5_Site_Banner_gen.png",
+    "publisher": {
+      "name": "Innovation Hub",
+      "logo": "https://he-s3.s3.amazonaws.com/media/cache/80/86/8086157462851a841a1516f335f0d134.png"
+    },
+    "start_time": "2025-01-05T10:00:00Z",
+    "end_time": "2025-01-06T10:00:00Z",
+    "first_prize": 2300,
+    "second_prize": 1150,
+    "third_prize": 575,
+    "category": "Upcoming Hackathon"
+  },
+
+  {
+    "_id": 3,
+    "title": "Tech Wizards Challenge 2025",
+    "description": "Prove your wizardry in tech!",
+    "banner": "https://access2sea.eu/wp-content/uploads/2020/06/OH5_Site_Banner_gen.png",
+    "publisher": {
+      "name": "Tech Wizards Inc.",
+      "logo": "https://he-s3.s3.amazonaws.com/media/cache/80/86/8086157462851a841a1516f335f0d134.png"
+    },
+    "start_time": "2025-12-01T16:00:00Z",
+    "end_time": "2025-12-02T16:00:00Z",
+    "first_prize": 2700,
+    "second_prize": 1350,
+    "third_prize": 675,
+    "category": "Upcoming Hackathon"
+  },
+
+  {
+    "_id": 4,
+    "title": "TechHacks 2024",
+    "description": "Where innovation meets technology!",
+    "banner": "https://access2sea.eu/wp-content/uploads/2020/06/OH5_Site_Banner_gen.png",
+    "publisher": {
+      "name": "Tech Innovators Inc.",
+      "logo": "https://he-s3.s3.amazonaws.com/media/cache/80/86/8086157462851a841a1516f335f0d134.png"
+    },
+    "start_time": "2024-03-10T11:00:00Z",
+    "end_time": "2024-03-11T11:00:00Z",
+    "first_prize": 1800,
+    "second_prize": 900,
+    "third_prize": 450,
+    "category": "Upcoming Hackathon"
+  },
+
+  {
+    "_id": 5,
+    "title": "CodeFest 2023",
+    "description": "The ultimate coding showdown!",
+    "banner": "https://access2sea.eu/wp-content/uploads/2020/06/OH5_Site_Banner_gen.png",
+    "publisher": {
+      "name": "Code Masters",
+      "logo": "https://he-s3.s3.amazonaws.com/media/cache/80/86/8086157462851a841a1516f335f0d134.png"
+    },
+    "start_time": "2023-11-15T10:00:00Z",
+    "end_time": "2023-11-16T10:00:00Z",
+    "first_prize": 1500,
+    "second_prize": 750,
+    "third_prize": 300,
+    "category": "Upcoming Hackathon"
+  },
+
+  {
+    "_id": 6,
+    "title": "HackathonX",
+    "description": "Pushing the boundaries of innovation!",
+    "banner": "https://access2sea.eu/wp-content/uploads/2020/06/OH5_Site_Banner_gen.png",
+    "publisher": {
+      "name": "X Innovations",
+      "logo": "https://he-s3.s3.amazonaws.com/media/cache/80/86/8086157462851a841a1516f335f0d134.png"
+    },
+    "start_time": "2024-07-18T13:00:00Z",
+    "end_time": "2024-07-19T13:00:00Z",
+    "first_prize": 2500,
+    "second_prize": 1250,
+    "third_prize": 625,
+    "category": "Upcoming Hackathon"
+  },
+
+  {
+    "_id": 7,
+    "title": "Innovation Quest 2025",
+    "description": "Embark on a quest for innovation!",
+    "banner": "https://access2sea.eu/wp-content/uploads/2020/06/OH5_Site_Banner_gen.png",
+    "publisher": {
+      "name": "Innovation Hub",
+      "logo": "https://he-s3.s3.amazonaws.com/media/cache/80/86/8086157462851a841a1516f335f0d134.png"
+    },
+    "start_time": "2025-08-20T13:00:00Z",
+    "end_time": "2025-08-21T13:00:00Z",
+    "first_prize": 2800,
+    "second_prize": 1400,
+    "third_prize": 700,
+    "category": "Upcoming Hackathon"
+  },
+
+  {
+    "_id": 8,
+    "title": "Hack the Future",
+    "description": "Innovate and shape the future!",
+    "banner": "https://access2sea.eu/wp-content/uploads/2020/06/OH5_Site_Banner_gen.png",
+    "publisher": {
+      "name": "Future Labs",
+      "logo": "https://he-s3.s3.amazonaws.com/media/cache/80/86/8086157462851a841a1516f335f0d134.png"
+    },
+    "start_time": "2023-12-05T12:00:00Z",
+    "end_time": "2023-12-06T12:00:00Z",
+    "first_prize": 1200,
+    "second_prize": 600,
+    "third_prize": 300,
+    "category": "Upcoming Hackathon"
+  },
+
+  {
+    "_id": 9,
+    "title": "HackathonX 2025",
+    "description": "Pushing the boundaries of innovation in the new year!",
+    "banner": "https://access2sea.eu/wp-content/uploads/2020/06/OH5_Site_Banner_gen.png",
+    "publisher": {
+      "name": "X Innovations",
+      "logo": "https://he-s3.s3.amazonaws.com/media/cache/80/86/8086157462851a841a1516f335f0d134.png"
+    },
+    "start_time": "2025-10-12T15:00:00Z",
+    "end_time": "2025-10-13T15:00:00Z",
+    "first_prize": 2600,
+    "second_prize": 1300,
+    "third_prize": 650,
+    "category": "Running Hackathon"
+  },
+
+  {
+    "_id": 10,
+    "title": "CodeFusion 2024",
+    "description": "Fusing code and creativity!",
+    "banner": "https://access2sea.eu/wp-content/uploads/2020/06/OH5_Site_Banner_gen.png",
+    "publisher": {
+      "name": "Code Fusion Labs",
+      "logo": "https://he-s3.s3.amazonaws.com/media/cache/80/86/8086157462851a841a1516f335f0d134.png"
+    },
+    "start_time": "2024-04-22T14:00:00Z",
+    "end_time": "2024-04-23T14:00:00Z",
+    "first_prize": 1600,
+    "second_prize": 800,
+    "third_prize": 400,
+    "category": "Running Hackathon"
+  },
+
+  {
+    "_id": 11,
+    "title": "CodeFusion 2025",
+    "description": "Fusing code and creativity in the new year!",
+    "banner": "https://access2sea.eu/wp-content/uploads/2020/06/OH5_Site_Banner_gen.png",
+    "publisher": {
+      "name": "Code Fusion Labs",
+      "logo": "https://he-s3.s3.amazonaws.com/media/cache/80/86/8086157462851a841a1516f335f0d134.png"
+    },
+    "start_time": "2025-03-20T12:00:00Z",
+    "end_time": "2025-03-21T12:00:00Z",
+    "first_prize": 2700,
+    "second_prize": 1350,
+    "third_prize": 675,
+    "category": "Running Hackathon"
+  },
+
+  {
+    "_id": 12,
+    "title": "CodeSprint Challenge",
+    "description": "Sprint to the coding finish line!",
+    "banner": "https://access2sea.eu/wp-content/uploads/2020/06/OH5_Site_Banner_gen.png",
+    "publisher": {
+      "name": "CodeSprint Corp.",
+      "logo": "https://he-s3.s3.amazonaws.com/media/cache/80/86/8086157462851a841a1516f335f0d134.png"
+    },
+    "start_time": "2024-09-10T15:00:00Z",
+    "end_time": "2024-09-11T15:00:00Z",
+    "first_prize": 1900,
+    "second_prize": 950,
+    "third_prize": 475,
+    "category": "Running Hackathon"
+  },
+
+  {
+    "_id": 13,
+    "title": "Tech Wizards Challenge",
+    "description": "Calling all tech wizards to compete!",
+    "banner": "https://access2sea.eu/wp-content/uploads/2020/06/OH5_Site_Banner_gen.png",
+    "publisher": {
+      "name": "Tech Wizards Inc.",
+      "logo": "https://he-s3.s3.amazonaws.com/media/cache/80/86/8086157462851a841a1516f335f0d134.png"
+    },
+    "start_time": "2024-10-30T16:00:00Z",
+    "end_time": "2024-10-31T16:00:00Z",
+    "first_prize": 2100,
+    "second_prize": 1050,
+    "third_prize": 525,
+    "category": "Running Hackathon"
+  },
+
+  {
+    "_id": 14,
+    "title": "CodeSprint Challenge 2025",
+    "description": "Sprint to victory in the new year!",
+    "banner": "https://access2sea.eu/wp-content/uploads/2020/06/OH5_Site_Banner_gen.png",
+    "publisher": {
+      "name": "CodeSprint Corp.",
+      "logo": "https://he-s3.s3.amazonaws.com/media/cache/80/86/8086157462851a841a1516f335f0d134.png"
+    },
+    "start_time": "2025-06-08T11:00:00Z",
+    "end_time": "2025-06-09T11:00:00Z",
+    "first_prize": 2400,
+    "second_prize": 1200,
+    "third_prize": 600,
+    "category": "Running Hackathon"
+  },
+
+  {
+    "_id": 15,
+    "title": "HackathonX 2023",
+    "description": "Join us for a 24-hour coding challenge!",
+    "banner": "https://access2sea.eu/wp-content/uploads/2020/06/OH5_Site_Banner_gen.png",
+    "publisher": {
+      "name": "Tech Innovators Inc.",
+      "logo": "https://he-s3.s3.amazonaws.com/media/cache/80/86/8086157462851a841a1516f335f0d134.png"
+    },
+    "start_time": "2023-10-01T09:00:00Z",
+    "end_time": "2023-10-02T09:00:00Z",
+    "first_prize": 1000,
+    "second_prize": 500,
+    "third_prize": 250,
+    "category": "Running Hackathon"
+  },
+
+  {
+    "_id": 16,
+    "title": "Innovation Challenge 2024",
+    "description": "Innovate, create, and win big!",
+    "banner": "https://access2sea.eu/wp-content/uploads/2020/06/OH5_Site_Banner_gen.png",
+    "publisher": {
+      "name": "Innovation Hub",
+      "logo": "https://he-s3.s3.amazonaws.com/media/cache/80/86/8086157462851a841a1516f335f0d134.png"
+    },
+    "start_time": "2024-06-05T09:00:00Z",
+    "end_time": "2024-06-06T09:00:00Z",
+    "first_prize": 2200,
+    "second_prize": 1100,
+    "third_prize": 550,
+    "category": "Running Hackathon"
+  }
+]

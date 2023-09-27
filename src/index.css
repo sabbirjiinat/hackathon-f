@@ -1,0 +1,30 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700;800&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background: rgb(45, 19, 53);
+  background: radial-gradient(
+    circle,
+    rgba(45, 19, 53, 1) 0%,
+    rgba(0, 6, 26, 1) 71%
+  );
+  font-family: "Montserrat", sans-serif;
+}
+
+.containers {
+  max-width: 1220px;
+  margin: 0 auto;
+}
+
+.btn-warnings {
+  background: rgb(239, 13, 121);
+  background: linear-gradient(
+    260deg,
+    rgba(239, 13, 121, 1) 0%,
+    rgba(174, 8, 140, 1) 71%
+  );
+  border: none;
+}
